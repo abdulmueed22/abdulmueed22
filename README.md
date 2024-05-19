@@ -1,16 +1,27 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Abdul Mueed</h1>
 
-<!--
-**abdulmueed22/abdulmueed22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Mobile Application Development
+- 📫 How to reach me: mueeda836@gmail.com
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/abdulmueed22">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+<a href="https://www.linkedin.com/in/abdul-mueed-709386254/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,html,css,cs,vscode,visualstudio&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Abdul Mueed's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmueed22&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmueed22&theme=dark)
+
+
+<br>
+⭐️ From Abdul Mueed: https://github.com/abdulmueed22
