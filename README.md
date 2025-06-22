@@ -1,9 +1,8 @@
  <h1 align="center">Hi 👋, I'm Abdul Mueed</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Mobile Application Development
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning Web Application Development
 - 📫 How to reach me: mueeda836@gmail.com
-- ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
 <div id="badges">
