@@ -15,7 +15,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,html,css,js,cs,react,mongodb,vscode,visualstudio&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,html,css,js,cs,react,mongodb,mysql,vscode,visualstudio&perline=5)](https://skillicons.dev)
 
 ![Abdul Mueed's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmueed22&show_icons=true&theme=dark)
 
