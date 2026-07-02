@@ -59,19 +59,19 @@ My focus is on creating AI-powered applications, voice agents, workflow automati
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,prisma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ### AI & Automation
@@ -82,7 +82,6 @@ My focus is on creating AI-powered applications, voice agents, workflow automati
 - 🔄 Make.com
 - 🌐 REST APIs
 - 🔗 Webhooks
-- 🗄️ Supabase
 
 ---
 
@@ -118,9 +117,9 @@ A computer vision game that uses a custom-trained **YOLOv8** model to recognize 
 
 ---
 
-### 🎨 Print-on-Demand Marketplace
+### 🎨 NexusFarm Market Place
 
-A MERN Stack marketplace inspired by Redbubble where artists can upload designs, customers can purchase products, and users can create custom designs online.
+NexusFarm is an innovative platform designed to address the challenges faced by farmers in Pakistan by connecting them directly with suppliers. This initiative aims to empower farmers by enabling them to showcase their agricultural products and negotiate fair prices through an online marketplace. Suppliers, on the other hand, can easily browse available products and place competitive bids, fostering a transparent and efficient agricultural trade ecosystem.
 
 ---
 
