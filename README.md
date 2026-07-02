@@ -99,6 +99,12 @@ An intelligent booking assistant capable of checking availability, scheduling ap
 
 ---
 
+### 🎨 NexusFarm Market Place
+
+NexusFarm is an innovative platform designed to address the challenges faced by farmers in Pakistan by connecting them directly with suppliers. This initiative aims to empower farmers by enabling them to showcase their agricultural products and negotiate fair prices through an online marketplace. Suppliers, on the other hand, can easily browse available products and place competitive bids, fostering a transparent and efficient agricultural trade ecosystem.
+
+---
+
 ### 🛒 E-Commerce Platform
 
 A Flutter & Firebase based e-commerce application featuring:
@@ -114,12 +120,6 @@ A Flutter & Firebase based e-commerce application featuring:
 ### 🎮 Rock Paper Scissors using YOLOv8
 
 A computer vision game that uses a custom-trained **YOLOv8** model to recognize hand gestures in real time and play Rock–Paper–Scissors against an AI opponent.
-
----
-
-### 🎨 NexusFarm Market Place
-
-NexusFarm is an innovative platform designed to address the challenges faced by farmers in Pakistan by connecting them directly with suppliers. This initiative aims to empower farmers by enabling them to showcase their agricultural products and negotiate fair prices through an online marketplace. Suppliers, on the other hand, can easily browse available products and place competitive bids, fostering a transparent and efficient agricultural trade ecosystem.
 
 ---
 
