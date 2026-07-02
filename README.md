@@ -147,16 +147,6 @@ NexusFarm is an innovative platform designed to address the challenges faced by 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdulmueed22&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
