@@ -188,7 +188,6 @@ A computer vision game that uses a custom-trained **YOLOv8** model to recognize 
 - Next.js 15
 - NestJS
 - PostgreSQL
-- Docker
 - System Design
 - AI Integrations
 
