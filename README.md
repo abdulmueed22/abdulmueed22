@@ -99,6 +99,13 @@ An intelligent booking assistant capable of checking availability, scheduling ap
 
 ---
 
+### 💼 AI Sales Automation CRM
+An intelligent lead-qualification system built using **n8n**, **OpenAI**, and **HubSpot CRM** that automatically scores incoming leads, syncs records to the CRM, and sends personalized follow-up emails — turning raw form submissions into ready-to-work sales opportunities.
+
+---
+
+If you want, I can also write the full README.md (with sections like Features, Tech Stack, Workflow Diagram, Setup Instructions) for any or all three of these repos — just say the word and I'll generate the file.
+
 ### 🎨 NexusFarm Market Place
 
 NexusFarm is an innovative platform designed to address the challenges faced by farmers in Pakistan by connecting them directly with suppliers. This initiative aims to empower farmers by enabling them to showcase their agricultural products and negotiate fair prices through an online marketplace. Suppliers, on the other hand, can easily browse available products and place competitive bids, fostering a transparent and efficient agricultural trade ecosystem.
